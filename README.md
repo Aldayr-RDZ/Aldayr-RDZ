@@ -3,11 +3,18 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador backend con una sólida experiencia en el desarrollo web y una pasión por la automatización de procesos. Mi enfoque actual es crear soluciones que optimicen flujos de trabajo y aumenten la eficiencia
 
 ## 🔭 Actualmente estoy trabajando en
-- Automatización de procesos empresariales con Python y Power Automate
+- Automatización de procesos empresariales con Python, Databricks y Power Automate
 - Integración de APIs para optimizar flujos de trabajo internos
 
 ## 🌱 Actualmente estoy aprendiendo
 - Mejores prácticas en CI/CD para entornos de produccion/testeo/desarrollo
+
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** Python, JavaScript, TypeScript, Java
+- **Frameworks:** Django, Flask, FastApi, Express.js
+- **Bases de datos:** PostgreSQL, MongoDB
+- **Automatización:** Power Automate, Selenium
+- **DevOps:** Docker
 <!--
 **Aldayr-RDZ/Aldayr-RDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
