@@ -11,7 +11,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** Django, Flask, FastApi, Express.js, SpringBoot
+- **Frameworks:** Django, Flask, FastApi, Express.js, React.js, SpringBoot
 - **Bases de datos:** PostgreSQL, MongoDB
 - **Automatización:** Power Automate, Selenium
 - **DevOps:** Docker
