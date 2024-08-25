@@ -1,4 +1,7 @@
-## Hi there 👋
+## # Hola, soy Aldayr 👋
+
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador backend con una sólida experiencia en el desarrollo web y una pasión por la automatización de procesos. Mi enfoque actual es crear soluciones que optimicen flujos de trabajo y aumenten la eficiencia
+
 
 <!--
 **Aldayr-RDZ/Aldayr-RDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
