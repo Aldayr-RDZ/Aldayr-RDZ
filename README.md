@@ -18,6 +18,10 @@
 
 ## 📫 Cómo contactarme
 - LinkedIn: [Aldayr en LinkedIn](https://www.linkedin.com/in/angel-aldayr/)
+
+## ⚡ Datos curiosos
+- Me apasiona encontrar formas de automatizar tareas repetitivas para ahorrar tiempo y recursos.
+- Tengo más de 4 años de experiencia en desarrollo backend y web.
 <!--
 **Aldayr-RDZ/Aldayr-RDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
