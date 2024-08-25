@@ -11,10 +11,13 @@
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** Django, Flask, FastApi, Express.js
+- **Frameworks:** Django, Flask, FastApi, Express.js, SpringBoot
 - **Bases de datos:** PostgreSQL, MongoDB
 - **Automatización:** Power Automate, Selenium
 - **DevOps:** Docker
+
+## 📫 Cómo contactarme
+- LinkedIn: [Aldayr en LinkedIn](https://www.linkedin.com/in/angel-aldayr/)
 <!--
 **Aldayr-RDZ/Aldayr-RDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
