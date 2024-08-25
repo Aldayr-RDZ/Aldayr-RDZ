@@ -18,7 +18,7 @@
 - **DevOps:** Docker
 
 ## 📫 Cómo contactarme
-- LinkedIn: [Aldayr en LinkedIn](https://www.linkedin.com/in/angel-aldayr/)
+- LinkedIn: [Perfil de Aldayr](https://www.linkedin.com/in/angel-aldayr/)
 
 ## ⚡ Datos curiosos
 - Me apasiona encontrar formas de automatizar tareas repetitivas para ahorrar tiempo y recursos.
