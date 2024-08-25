@@ -7,7 +7,7 @@
 - Integración de APIs para optimizar flujos de trabajo internos
 
 ## 🌱 Actualmente estoy aprendiendo
-- Mejores prácticas en CI/CD para entornos de producción
+- Mejores prácticas en CI/CD para entornos de produccion/testeo/desarrollo
 <!--
 **Aldayr-RDZ/Aldayr-RDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
