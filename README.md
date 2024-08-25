@@ -14,6 +14,7 @@
 - **Frameworks:** Django, Flask, FastApi, Express.js, React.js, SpringBoot
 - **Bases de datos:** PostgreSQL, MongoDB
 - **Automatización:** Power Automate, Selenium
+- **Visualización:** Power BI, Dashboards interactivos
 - **DevOps:** Docker
 
 ## 📫 Cómo contactarme
